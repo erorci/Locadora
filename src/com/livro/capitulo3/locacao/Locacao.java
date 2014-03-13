@@ -12,6 +12,7 @@ import javax.persistence.JoinColumn;
 import javax.persistence.ManyToOne;
 import javax.persistence.Table;
 
+import com.livro.capitulo3.cliente.Cliente;
 import com.livro.capitulo3.midia.Midia;
 
 @Entity

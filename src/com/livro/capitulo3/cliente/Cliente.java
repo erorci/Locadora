@@ -12,6 +12,7 @@ import javax.persistence.OneToOne;
 import javax.persistence.PrimaryKeyJoinColumn;
 import javax.persistence.Table;
 
+import com.livro.capitulo3.endereco.Endereco;
 import com.livro.capitulo3.locacao.Locacao;
 
 @Entity
